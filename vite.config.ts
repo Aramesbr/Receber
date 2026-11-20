@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react';
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: '/',
+  base: '/Receber/',
   plugins: [react(), tailwindcss()],
   server: { host: '0.0.0.0' },
   preview: { host: '0.0.0.0' },
