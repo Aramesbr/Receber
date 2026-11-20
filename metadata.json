@@ -1,0 +1,6 @@
+{
+  "name": "Recebimento de Materiais",
+  "description": "Sistema simples para registrar recebimento de cargas de arames, bobinas, barras e telas pop com emissão de comprovante em PDF limpo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
